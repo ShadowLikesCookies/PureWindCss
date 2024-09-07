@@ -1,6 +1,6 @@
 const elements = document.querySelectorAll('[id]');
-import { dynamic_styles } from './dict/dynamic-styles.js';
-import { styles } from './dict/styles.js';
+import { dynamic_styles } from './dynamic-styles.js';
+import { styles } from './styles.js';
 
 const custom_tags = {};
 const styleKeys = Object.keys(styles).sort();
