@@ -1,3 +1,6 @@
+# Alot of the stuff here dosnt work yet, its still a work in progress and im just a hobbyist developer, THANK YOU! 
+
+
 # PureWindCss
 ### A pure javascript Utility Class based library.
 
